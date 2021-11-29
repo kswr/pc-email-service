@@ -1,2 +1,1 @@
-# pc-email-service
-Pet Clinic Email Service
+# Pet Clinic Email Service
